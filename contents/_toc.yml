@@ -4,6 +4,4 @@
 format: jb-book
 root: docs/intro
 chapters:
-- file: docs/markdown
-- file: docs/notebooks
-- file: docs/mymarkdownfile
+
