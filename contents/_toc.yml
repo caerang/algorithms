@@ -4,4 +4,4 @@
 format: jb-book
 root: docs/intro
 chapters:
-
+- file: docs/overview
