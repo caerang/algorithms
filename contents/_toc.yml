@@ -2,6 +2,13 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: docs/intro
-chapters:
-- file: docs/overview
+root: docs/introduction/title
+options:
+  numbered: True
+parts:
+- caption: Front Matter
+  chapters:
+  - file: docs/frontmatter/toc.md
+- caption: Algorithm
+  chapters:
+  - file: docs/binary-search.ipynb
