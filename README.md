@@ -4,3 +4,5 @@
 
 # Project Euler (프로젝트 오일러)
 
+# TODO
+[ ] Greedy Method 개념 설명하기
